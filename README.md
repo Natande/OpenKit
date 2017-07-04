@@ -22,7 +22,7 @@ pod "OpenKit"
 
 ## Author
 
-Natan, qyspace@gmail.com
+Natan, mrnatande@gmail.com
 
 ## License
 

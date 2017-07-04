@@ -1,0 +1,16 @@
+PODS:
+  - OpenKit (0.1.0)
+
+DEPENDENCIES:
+  - OpenKit (from `../`)
+
+EXTERNAL SOURCES:
+  OpenKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  OpenKit: 8af371140bea59b995e9e3987da95134ebe70d04
+
+PODFILE CHECKSUM: 0bae80752641fa742133224db20945a0ab077415
+
+COCOAPODS: 1.2.0
